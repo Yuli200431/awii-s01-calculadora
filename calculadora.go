@@ -206,4 +206,5 @@ func main() {
 	fmt.Printf("El resultado de %.2f %s %.2f es: %.2f\n", num1, operacion, num2, resultado)
 	}
 
+
 }
